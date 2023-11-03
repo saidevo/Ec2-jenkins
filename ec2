@@ -1,0 +1,1 @@
+aws ec2 run-instances --image-id ami-0287a05f0ef0e9d9a --instance-type t2.micro --key-name GIT --security-group-ids sg-0b98ba66798de35ae --subnet-id subnet-0dc8a2c79d51c4e5c
